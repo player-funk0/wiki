@@ -1,0 +1,17 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Django / local runtime files
+wiki/db.sqlite3
+wiki/runserver.log
+wiki/server.out
+
+# Common local env folders
+.venv/
+venv/
+env/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
