@@ -7,7 +7,7 @@ wiki/db.sqlite3
 wiki/runserver.log
 wiki/server.out
 
-# Common local env folders
+# Common local env folders !
 .venv/
 venv/
 env/
